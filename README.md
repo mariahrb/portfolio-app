@@ -1,6 +1,6 @@
 # 📂 Portfolio App
 
-A collaborative single-page portfolio for two people, with integrated Go backend for email sending.
+A single-page portfolio, with integrated Go backend for email sending.
 
 ## 📌 Features
 - React + Vite frontend
